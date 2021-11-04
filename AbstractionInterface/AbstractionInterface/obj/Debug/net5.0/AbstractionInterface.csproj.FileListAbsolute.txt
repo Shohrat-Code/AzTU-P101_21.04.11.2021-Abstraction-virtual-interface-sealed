@@ -1,0 +1,16 @@
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\21.04.11.2021-Abstraction, virtual, interface, sealed\Codes\AbstractionInterface\AbstractionInterface\bin\Debug\net5.0\AbstractionInterface.exe
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\21.04.11.2021-Abstraction, virtual, interface, sealed\Codes\AbstractionInterface\AbstractionInterface\bin\Debug\net5.0\AbstractionInterface.deps.json
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\21.04.11.2021-Abstraction, virtual, interface, sealed\Codes\AbstractionInterface\AbstractionInterface\bin\Debug\net5.0\AbstractionInterface.runtimeconfig.json
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\21.04.11.2021-Abstraction, virtual, interface, sealed\Codes\AbstractionInterface\AbstractionInterface\bin\Debug\net5.0\AbstractionInterface.runtimeconfig.dev.json
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\21.04.11.2021-Abstraction, virtual, interface, sealed\Codes\AbstractionInterface\AbstractionInterface\bin\Debug\net5.0\AbstractionInterface.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\21.04.11.2021-Abstraction, virtual, interface, sealed\Codes\AbstractionInterface\AbstractionInterface\bin\Debug\net5.0\ref\AbstractionInterface.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\21.04.11.2021-Abstraction, virtual, interface, sealed\Codes\AbstractionInterface\AbstractionInterface\bin\Debug\net5.0\AbstractionInterface.pdb
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\21.04.11.2021-Abstraction, virtual, interface, sealed\Codes\AbstractionInterface\AbstractionInterface\obj\Debug\net5.0\AbstractionInterface.csproj.AssemblyReference.cache
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\21.04.11.2021-Abstraction, virtual, interface, sealed\Codes\AbstractionInterface\AbstractionInterface\obj\Debug\net5.0\AbstractionInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\21.04.11.2021-Abstraction, virtual, interface, sealed\Codes\AbstractionInterface\AbstractionInterface\obj\Debug\net5.0\AbstractionInterface.AssemblyInfoInputs.cache
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\21.04.11.2021-Abstraction, virtual, interface, sealed\Codes\AbstractionInterface\AbstractionInterface\obj\Debug\net5.0\AbstractionInterface.AssemblyInfo.cs
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\21.04.11.2021-Abstraction, virtual, interface, sealed\Codes\AbstractionInterface\AbstractionInterface\obj\Debug\net5.0\AbstractionInterface.csproj.CoreCompileInputs.cache
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\21.04.11.2021-Abstraction, virtual, interface, sealed\Codes\AbstractionInterface\AbstractionInterface\obj\Debug\net5.0\AbstractionInterface.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\21.04.11.2021-Abstraction, virtual, interface, sealed\Codes\AbstractionInterface\AbstractionInterface\obj\Debug\net5.0\ref\AbstractionInterface.dll
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\21.04.11.2021-Abstraction, virtual, interface, sealed\Codes\AbstractionInterface\AbstractionInterface\obj\Debug\net5.0\AbstractionInterface.pdb
+D:\Code Academy\Teaching\AzTU-Code\AzTU-P101\Lessons\21.04.11.2021-Abstraction, virtual, interface, sealed\Codes\AbstractionInterface\AbstractionInterface\obj\Debug\net5.0\AbstractionInterface.genruntimeconfig.cache
